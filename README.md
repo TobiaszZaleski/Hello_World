@@ -3,4 +3,4 @@ Hello World Repository
 
 Hello
 
-I've changed the file as they told me so now it's changed, yaay.
+I've changed the file as they told me to, so now it's changed, yaay.
